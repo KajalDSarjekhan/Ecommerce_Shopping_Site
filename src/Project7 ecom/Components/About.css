@@ -1,0 +1,40 @@
+.About{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.About img{
+    height: 350px;
+    width: 350px;
+    transform: rotate();
+    transform-origin: 100px;
+   
+
+}
+.imgs {
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+.imgs:hover{
+    transform: rotate(0deg);
+  }
+.left{
+    height: 500px;
+    width: 60%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.right{
+    height: 500px;
+    width: 40%;
+    text-align: center;
+   margin: 50px;
+    margin-top: 200px;
+   
+}

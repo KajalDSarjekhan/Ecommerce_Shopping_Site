@@ -1,0 +1,12 @@
+.Home{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    color: white;
+    background-color:orangered;
+    border: 1px solid orangered;
+}

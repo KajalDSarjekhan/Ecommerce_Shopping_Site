@@ -1,0 +1,23 @@
+.navbar{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.nav{
+    height: 50px;
+    width: 100%;
+   background-color: black;
+   display: flex;
+  
+   justify-content: space-evenly;
+   align-items: center;
+}
+.navinput{
+    padding: 10px;
+    text-align: center;
+}
